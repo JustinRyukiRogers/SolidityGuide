@@ -1,8 +1,8 @@
 {
-  "name": "inbox",
+  "name": "lottery",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lottery.js",
   "scripts": {
     "test": "mocha"
   },
